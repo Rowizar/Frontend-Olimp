@@ -1,0 +1,135 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\..\\test-htmlcss\\reference\\header-desktop.png",
+        "test": "..\\bitmaps_test\\20240218-120156\\header-desktop.png",
+        "selector": "[data-test=\"header\"]",
+        "fileName": "header-desktop.png",
+        "label": "header",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.7,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-htmlcss\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.7899305555555554,
+          "misMatchPercentage": "2.79",
+          "analysisTime": 73
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-120156\\failed_diff_header-desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-htmlcss\\reference\\header-tablet.png",
+        "test": "..\\bitmaps_test\\20240218-120156\\header-tablet.png",
+        "selector": "[data-test=\"header\"]",
+        "fileName": "header-tablet.png",
+        "label": "header",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.7,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-htmlcss\\index.html",
+        "expect": 0,
+        "viewportLabel": "tablet",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 3.6121961805555554,
+          "misMatchPercentage": "3.61",
+          "analysisTime": 44
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-120156\\failed_diff_header-tablet.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-htmlcss\\reference\\header-mobile.png",
+        "test": "..\\bitmaps_test\\20240218-120156\\header-mobile.png",
+        "selector": "[data-test=\"header\"]",
+        "fileName": "header-mobile.png",
+        "label": "header",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.3,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-htmlcss\\index.html",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 5.942222222222222,
+          "misMatchPercentage": "5.94",
+          "analysisTime": 28
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-120156\\failed_diff_header-mobile.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-htmlcss\\reference\\header-overflow-desktop.png",
+        "test": "..\\bitmaps_test\\20240218-120156\\header-overflow-desktop.png",
+        "selector": "[data-test=\"header\"]",
+        "fileName": "header-overflow-desktop.png",
+        "label": "header-overflow",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-htmlcss\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 30.29340277777778,
+          "misMatchPercentage": "30.29",
+          "analysisTime": 145
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-120156\\failed_diff_header-overflow-desktop.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-htmlcss\\reference\\header-overflow-mobile.png",
+        "test": "..\\bitmaps_test\\20240218-120156\\header-overflow-mobile.png",
+        "selector": "[data-test=\"header\"]",
+        "fileName": "header-overflow-mobile.png",
+        "label": "header-overflow",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 1,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-htmlcss\\index.html",
+        "expect": 0,
+        "viewportLabel": "mobile",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 10.655555555555555,
+          "misMatchPercentage": "10.66",
+          "analysisTime": 45
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-120156\\failed_diff_header-overflow-mobile.png"
+      },
+      "status": "fail"
+    }
+  ]
+}

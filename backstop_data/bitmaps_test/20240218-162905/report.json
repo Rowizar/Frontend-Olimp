@@ -1,0 +1,105 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-3\\reference\\form-validation_31.png",
+        "test": "..\\bitmaps_test\\20240218-162905\\form-validation_31.png",
+        "selector": ".guests-group",
+        "fileName": "form-validation_31.png",
+        "label": "form-validation 3.1",
+        "misMatchThreshold": 3,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-3\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 23.736263736263734,
+          "misMatchPercentage": "23.74",
+          "analysisTime": 52
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-162905\\failed_diff_form-validation_31.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-3\\reference\\form-validation_32.png",
+        "test": "..\\bitmaps_test\\20240218-162905\\form-validation_32.png",
+        "selector": ".guests-group",
+        "fileName": "form-validation_32.png",
+        "label": "form-validation 3.2",
+        "misMatchThreshold": 3,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-3\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 23.736263736263734,
+          "misMatchPercentage": "23.74",
+          "analysisTime": 53
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-162905\\failed_diff_form-validation_32.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-3\\reference\\form-validation_33.png",
+        "test": "..\\bitmaps_test\\20240218-162905\\form-validation_33.png",
+        "selector": ".guests-group",
+        "fileName": "form-validation_33.png",
+        "label": "form-validation 3.3",
+        "misMatchThreshold": 3,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-3\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 23.736263736263734,
+          "misMatchPercentage": "23.74",
+          "analysisTime": 47
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-162905\\failed_diff_form-validation_33.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-3\\reference\\form-validation_34.png",
+        "test": "..\\bitmaps_test\\20240218-162905\\form-validation_34.png",
+        "selector": ".guests-group",
+        "fileName": "form-validation_34.png",
+        "label": "form-validation 3.4",
+        "misMatchThreshold": 3,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-3\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 23.73600209314495,
+          "misMatchPercentage": "23.74",
+          "analysisTime": 56
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-162905\\failed_diff_form-validation_34.png"
+      },
+      "status": "fail"
+    }
+  ]
+}

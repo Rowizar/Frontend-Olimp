@@ -1,0 +1,55 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_21.png",
+        "test": "..\\bitmaps_test\\20240218-180456\\range_21.png",
+        "selector": "#slider-2",
+        "fileName": "range_21.png",
+        "label": "range 2.1",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 6.243044515103339,
+          "misMatchPercentage": "6.24",
+          "analysisTime": 19
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-180456\\failed_diff_range_21.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_22.png",
+        "test": "..\\bitmaps_test\\20240218-180456\\range_22.png",
+        "selector": "#slider-2",
+        "fileName": "range_22.png",
+        "label": "range 2.2",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 7.114467408585055,
+          "misMatchPercentage": "7.11",
+          "analysisTime": 21
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-180456\\failed_diff_range_22.png"
+      },
+      "status": "fail"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_31.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_31.png",
+        "selector": "#slider-3",
+        "fileName": "range_31.png",
+        "label": "range 3.1",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 6.164546899841017,
+          "misMatchPercentage": "6.16",
+          "analysisTime": 21
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_31.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_32.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_32.png",
+        "selector": "#slider-3",
+        "fileName": "range_32.png",
+        "label": "range 3.2",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 6.8044515103338625,
+          "misMatchPercentage": "6.80",
+          "analysisTime": 36
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_32.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_33.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_33.png",
+        "selector": "#slider-3",
+        "fileName": "range_33.png",
+        "label": "range 3.3",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 16.48052464228935,
+          "misMatchPercentage": "16.48",
+          "analysisTime": 41
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_33.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_34.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_34.png",
+        "selector": "#slider-3",
+        "fileName": "range_34.png",
+        "label": "range 3.4",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 5.580286168521463,
+          "misMatchPercentage": "5.58",
+          "analysisTime": 26
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_34.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_35.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_35.png",
+        "selector": "#slider-3",
+        "fileName": "range_35.png",
+        "label": "range 3.5",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 12.342011128775834,
+          "misMatchPercentage": "12.34",
+          "analysisTime": 34
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_35.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_36.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_36.png",
+        "selector": "#slider-3",
+        "fileName": "range_36.png",
+        "label": "range 3.6",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 13.988473767885532,
+          "misMatchPercentage": "13.99",
+          "analysisTime": 33
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_36.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\..\\test-js\\component-4\\reference\\range_37.png",
+        "test": "..\\bitmaps_test\\20240218-181038\\range_37.png",
+        "selector": "#slider-3",
+        "fileName": "range_37.png",
+        "label": "range 3.7",
+        "misMatchThreshold": 2,
+        "url": "file://C:\\Users\\rearming\\Desktop\\Front\\task-js\\component-4\\index.html",
+        "expect": 0,
+        "viewportLabel": "desktop",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 18.51251987281399,
+          "misMatchPercentage": "18.51",
+          "analysisTime": 26
+        },
+        "diffImage": "..\\bitmaps_test\\20240218-181038\\failed_diff_range_37.png"
+      },
+      "status": "fail"
+    }
+  ]
+}
